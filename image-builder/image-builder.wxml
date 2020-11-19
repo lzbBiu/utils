@@ -1,0 +1,2 @@
+
+<canvas type="2d" id="{{canvasId}}" style="{{ 'width:' + width + 'rpx; height:' + height + 'rpx;' }}" bindtouchend="bindClickCanvas"></canvas>
